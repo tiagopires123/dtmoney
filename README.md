@@ -1,46 +1,72 @@
-# Getting Started with Create React App
+# dt money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-ff512f?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=ff512f&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=ff512f&style=flat-square">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+  </a>
+  
+</p>
 
-## Available Scripts
+<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
 
-In the project directory, you can run:
+## Tópicos 
 
-### `yarn start`
+[Sobre o dt money](#sobre-o-dt-money)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Tecnologias](#tecnologias)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Instalação e uso](#instalação-e-uso)
 
-### `yarn test`
+[Licença](#licença)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `yarn build`
+## Sobre o dt money
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src=".github/cover.png" alt="Página inicial">
+</p>
 
-### `yarn eject`
+## Tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Instalação e uso
 
-## Learn More
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/tiagopires123/dtmoney.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# ou use a opção de download.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Entre na pasta web com 
+cd dtmoney
+
+# Instale as dependências
+yarn install
+
+# Rode a aplicação
+yarn start
+```
+
+<br>
+
+---
+
+Feito com :orange_heart
