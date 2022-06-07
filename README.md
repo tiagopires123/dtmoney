@@ -58,4 +58,4 @@ yarn start
 
 ---
 
-Feito com :orange_heart
+Feito com :orange_heart:
